@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "93cdd2df-9ff9-448c-8247-eea1087561c8",
+      "name": "Bhavana",
+      "email": "b@test.com"
+    },
+    {
+      "id": "333e584e-d3cf-4ab4-9e8c-a46152fcaac0",
+      "name": "Yasha Soni",
+      "email": "yasha@outlook.com"
+    },
+    {
+      "id": "307a0346-f4e9-4e44-afe6-6c2d68951b6f",
+      "name": "Krishna",
+      "email": "k@gmail.com"
+    },
+    {
+      "id": "a6e0b558-d089-4648-b1ba-dbb0c6122ef5",
+      "name": "Gunjan",
+      "email": "gui@gmail.com"
+    },
+    {
+      "id": "0761a84f-aaaa-47c3-a461-6abc17a9de24",
+      "name": "Dolly",
+      "email": "d@outlook.com"
+    },
+    {
+      "id": "ed3114bf-d151-4f56-9d2b-7e819e952878",
+      "name": "Hari",
+      "email": "h@test.com"
+    },
+    {
+      "id": "69851ba8-0d6e-4a3b-93a6-f6824c84ca8f",
+      "name": "Vinita",
+      "email": "vinu@test.com"
+    }
+  ]
+}
